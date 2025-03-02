@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borjapax
 - 👀 I’m interested in peacebuilding
-- 🌱 I’m currently learning computer science and programming (Python, HTML, CSS, Javascrit, Data science)
+- 🌱 I’m currently learning computer science and programming (Python, HTML, CSS, JavaScript, Data science)
 - 💞️ I’m looking to collaborate on new ideas and innovation
 - 📫 How to reach me: e-mail me (borjapax @ gmail)
 
